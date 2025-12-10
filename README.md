@@ -1,10 +1,12 @@
 # Como Crear un Proyecto con Spring Framework 6 
 Tutorial: https://youtu.be/NarBox1LkYc 
 
-[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
 
 
 
 
-https://user-images.githubusercontent.com/11830789/231013254-14e5503e-db22-481a-bb44-e79b787cb550.mp4
+https://github.com/user-attachments/assets/e8289471-46d6-4dc1-b06e-1d316d8cd7c9
+
+
+
 
